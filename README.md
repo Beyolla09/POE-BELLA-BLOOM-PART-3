@@ -51,12 +51,12 @@ Open `index.html` in a modern browser. Internet access is required for the remot
 
 ## Student information
 Update these details before submitting:
-- Student: [Your full name]
-- Student number: [Your student number]
-- Course: [Your course]
-- Module: [Your module]
-- Lecturer: [Lecturer name]
-- Institution: [Institution name]
+- Student: [Siphesihle Beyolla Madonsela]
+- Student number: [ST10531182]
+- Course: [Diploma In Information Technology In Network Management]
+- Module: [Web Development]
+- Lecturer: [Lusa Matshakatini]
+- Institution: [Rosebank International Pretoria]
 
 
 ## Part 3: Functionality and SEO
